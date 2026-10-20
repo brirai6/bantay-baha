@@ -1,0 +1,25 @@
+bantay-baha/
+│
+├── backend/
+│   ├── server.js
+│   ├── routes/
+│   │   └── readings.js
+│   ├── services/
+│   │   └── advisoryService.js
+│   ├── .env
+│   └── package.json
+│
+├── frontend/
+│   ├── index.html
+│   ├── css/
+│   │   └── style.css
+│   └── js/
+│       └── app.js
+│
+├── simulator/
+│   └── simulator.js
+│
+├── PLAN.md
+├── REFLECTION.md
+├── README.md
+└── .gitignore
